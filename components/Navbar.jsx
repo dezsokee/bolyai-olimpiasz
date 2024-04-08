@@ -47,6 +47,7 @@ const Navbar = () => {
                     : "bg-transparent py-10",
                 "sticky top-0 z-30 px-5 transition-all md:px-28"
             )}
+            
         >
             {isOpen && <Modal close={setIsOpen}/>}
             <section className="flex items-center">
