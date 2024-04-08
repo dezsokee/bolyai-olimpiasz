@@ -53,7 +53,7 @@ const Navbar = () => {
                 <Link href={`/${lang}/`}>
                     <img
                         alt=""
-                        src={`/assets/images/logo_${lang}.jpg`}
+                        src={`/assets/images/logo_${lang}.png`}
                         className={classNames(
                             scrollPosition > 0
                                 ? "w-[50px] md:w-[100px]"
