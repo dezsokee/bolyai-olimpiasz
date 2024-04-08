@@ -1,0 +1,17 @@
+.background {
+  position: relative;
+  z-index: -2;
+}
+
+.background::before {
+  content: "";
+  background-image: url("/assets/images/background.jpg");
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.27;
+  z-index: -1;
+}
