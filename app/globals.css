@@ -7,3 +7,8 @@
 .rubik {
   font-family: "Rubik", sans-serif;
 }
+
+/* hide the error popup */
+nextjs-portal {
+  display: none;
+}
