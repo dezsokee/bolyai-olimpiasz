@@ -88,7 +88,7 @@ export default function NavItems({ openModal }) {
     } else {
       const objectArray = Object.entries(value);
       return (
-        <div>
+        <div key={key}>
           <button className="peer relative border-2 border-papyrus/50 px-3 py-2 text-lg text-raisin-black backdrop-blur-2xl transition-colors hover:bg-papyrus/50 md:text-sm">
             {lang == "hu" ? key : translation[key]}
           </button>

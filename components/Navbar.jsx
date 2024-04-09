@@ -57,7 +57,7 @@ const Navbar = () => {
                         className={classNames(
                             scrollPosition > 0
                                 ? "w-[50px] md:w-[100px]"
-                                : "w-[100px] md:w-[150px]", // almafa
+                                : "w-[100px] md:w-[150px]",
                             "transition-all",
                         )}
                     />
