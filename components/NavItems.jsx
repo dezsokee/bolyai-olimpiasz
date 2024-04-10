@@ -70,8 +70,11 @@ export default function NavItems({ openModal }) {
   const lang = usePathname().includes("/hu") ? "hu" : "ro";
 
   const renderLinks = (key, value) => {
+
     if (typeof value !== "object") {
+
       return (
+
         <Link
           href={lang == "hu" ? links[key] : links[value]}
           key={key}
@@ -83,17 +86,26 @@ export default function NavItems({ openModal }) {
           }}
         >
           {lang == "hu" ? key : value}
+
         </Link>
       );
+
     } else {
+      
       const objectArray = Object.entries(value);
+
       return (
+
         <div key={key}>
+
           <button className="peer relative border-2 border-papyrus/50 px-3 py-2 text-lg text-raisin-black backdrop-blur-2xl transition-colors hover:bg-papyrus/50 md:text-sm">
             {lang == "hu" ? key : translation[key]}
           </button>
+
           <div className="absolute z-[60] hidden w-[200px] flex-col bg-white text-center drop-shadow-lg hover:flex focus:flex peer-hover:flex peer-focus:flex">
+            
             {objectArray.map(([objectKey, objectValue]) => {
+
               return (
                 <Link
                   href={lang == "hu" ? links[objectKey] : links[objectValue]}
@@ -105,10 +117,14 @@ export default function NavItems({ openModal }) {
                   }}
                 >
                   {lang == "hu" ? objectKey : objectValue}
+                  
                 </Link>
               );
+
             })}
+
           </div>
+
         </div>
       );
     }
@@ -116,9 +132,11 @@ export default function NavItems({ openModal }) {
 
   return (
     <section className="flex flex-col items-center justify-center gap-2 md:flex-row md:flex-wrap md:justify-center">
+
       {Object.entries(items).map(([key, value]) => {
         return renderLinks(key, value);
       })}
+
     </section>
   );
 }
