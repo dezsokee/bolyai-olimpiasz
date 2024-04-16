@@ -11,14 +11,13 @@ const Page = () => {
       <h2 className="mb-16 text-center text-xl">
         Marosvásárhely, 2023 április 20-23
       </h2>
-      <h3 className="mb-2 mt-5 text-lg">2023. április 20. - csütörtök</h3>
-      <Table fileName="/assets/program_hu/apr20.csv" />
-      <h3 className="mb-2 mt-5 text-lg">2023. április 21. - péntek</h3>
-      <Table fileName="/assets/program_hu/apr21.csv" />
-      <h3 className="mb-2 mt-5 text-lg">2023. április 22. - szombat</h3>
-      <Table fileName="/assets/program_hu/apr22.csv" />
-      <h3 className="mb-2 mt-5 text-lg">2023. április 23. - vasárnap</h3>
-      <Table fileName="/assets/program_hu/apr23.csv" />
+      <h3 className="mb-2 mt-5 text-lg">2024. április 24. szerda</h3>
+      <Table fileName="/assets/program_hu/apr24.csv" />
+      <h3 className="mb-2 mt-5 text-lg">2024. április 25. - csütörtök</h3>
+      <Table fileName="/assets/program_hu/apr25.csv" />
+      <h3 className="mb-2 mt-5 text-lg">2024. április 26. - péntek</h3>
+      <Table fileName="/assets/program_hu/apr26.csv" />
+
     </main>
   );
 };
