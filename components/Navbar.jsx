@@ -1,14 +1,14 @@
 "use client";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
-import { useScrollPosition } from "../hooks/useScrollPosition";
+import {usePathname} from "next/navigation";
+import {useScrollPosition} from "../hooks/useScrollPosition";
 import NavItems from "./NavItems";
 import useCurrentBreakpoint from "@/hooks/useCurrentBreakpoint";
 import MenuIcon from "./MenuIcon";
-import { useState } from "react";
+import {useState} from "react";
 import CloseIcon from "./CloseIcon";
 
-const Modal = ({ close }) => {
+const Modal = ({close}) => {
     return (
         <div className="absolute inset-0 z-30 h-screen w-screen bg-white p-5">
             <div className="flex w-full justify-end">
@@ -18,10 +18,10 @@ const Modal = ({ close }) => {
                     }}
                     className="transition-all hover:bg-papyrus"
                 >
-                    <CloseIcon className="h-14 w-14" />
+                    <CloseIcon className="h-14 w-14"/>
                 </button>
             </div>
-            <NavItems openModal={close} />
+            <NavItems openModal={close}/>
         </div>
     );
 };
@@ -48,7 +48,7 @@ const Navbar = () => {
                 "sticky top-0 z-30 px-5 transition-all md:px-28"
             )}
         >
-            {isOpen && <Modal close={setIsOpen} />}
+            {isOpen && <Modal close={setIsOpen}/>}
 
             <section className="flex items-center">
 
@@ -65,17 +65,18 @@ const Navbar = () => {
                     />
                 </Link>
 
-                <div className="flex-grow" />
+                <div className="flex-grow"/>
 
-                {breakpoint != "sm" && breakpoint != "xs" && <NavItems openModal={setIsOpen} />}
+                {breakpoint != "sm" && breakpoint != "xs" && <NavItems openModal={setIsOpen}/>}
 
-                <div className="flex-grow" />
+                <div className="flex-grow"/>
 
                 <Link href={`/${inverse_lang}/`}>
-                    <span
-                        className="border-2 border-papyrus/50 p-3 text-lg uppercase text-raisin-black backdrop-blur-2xl transition-colors hover:bg-papyrus/50 md:text-sm">
-                        {inverse_lang}
-                    </span>
+                    {inverse_lang === "hu" ? (
+                        <img src="/assets/images/flag_hu.png" alt="HU" className="h-6 w-auto"/>
+                    ) : (
+                        <img src="/assets/images/flag_ro.png" alt="RO" className="h-6 w-auto"/>
+                    )}
                 </Link>
 
                 {(breakpoint == "sm" || breakpoint == "xs") && (
@@ -84,7 +85,7 @@ const Navbar = () => {
                             setIsOpen(true);
                         }}
                     >
-                        <MenuIcon className="ml-2 h-14 w-14 transition-all hover:bg-papyrus" />
+                        <MenuIcon className="ml-2 h-14 w-14 transition-all hover:bg-papyrus"/>
                     </button>
                 )}
 
