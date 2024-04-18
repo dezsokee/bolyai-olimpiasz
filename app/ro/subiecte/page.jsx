@@ -2,7 +2,8 @@ export default function Page() {
   return (
     <main>
       <h1 className="space-x-2 text-lg font-semibold md:text-2xl">
-        <span>Subiect clasa a VI-a </span>
+        Subiectele nu sunt disponibile!
+        {/*<span>Subiect clasa a VI-a </span>
         <a
           href="/assets/tetelek/6tetel.pdf"
           target="_blank"
@@ -39,7 +40,7 @@ export default function Page() {
           className="font-normal underline"
         >
           7kulcs.pdf
-        </a>
+  </a>*/}
       </h1>
     </main>
   );

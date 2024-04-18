@@ -2,6 +2,8 @@ export default function Page() {
   return (
     <main>
       <h1 className="space-x-2 text-lg font-semibold md:text-2xl">
+        Az eredmények egyelőre nem elérhetőek!
+        {/*
         <span>Óvás előtti eredmények:</span>
         <a
           href="/assets/eredmenyek.pdf"
@@ -20,6 +22,7 @@ export default function Page() {
         >
           végső.pdf
         </a>
+  */}
       </h1>
     </main>
   );

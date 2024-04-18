@@ -1,7 +1,10 @@
 export default function Page() {
   return (
     <main>
+      
       <h1 className="space-x-2 text-lg font-semibold md:text-2xl">
+        Rezultatele nu sunt disponibile!
+        {/*
         <span>Rezultate inițiale:</span>
         <a
           href="/assets/eredmenyek.pdf"
@@ -19,7 +22,7 @@ export default function Page() {
           className="font-normal underline"
         >
           finale.pdf
-        </a>
+  </a>*/}
       </h1>
     </main>
   );
