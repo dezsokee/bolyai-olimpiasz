@@ -9,7 +9,7 @@ const Page = () => {
         Maghiare
       </h1>
       <h2 className="mb-16 text-center text-xl">
-        Târgu-Mureș, 20-23 aprilie 2023
+        Târgu-Mureș, 24-26 aprilie 2024
       </h2>
       <h3 className="mb-2 mt-5 text-lg">24 aprilie 2024 - Miercuri</h3>
       <Table fileName="/assets/program_ro/apr24.csv" />
