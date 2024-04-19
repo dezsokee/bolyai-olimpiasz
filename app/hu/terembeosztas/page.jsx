@@ -12,9 +12,8 @@ export default function Page() {
           className="font-normal underline" 
         >
           beosztás2023.pdf
-        </a> */}
-          beosztás.pdf
         </a>
+          beosztás.pdf */}
       </h1>
     
     </main>
