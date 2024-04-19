@@ -1,75 +1,141 @@
-﻿,"Numele, inițiala tatălui și prenumele elevului",Clasa,Unitate de învățământ/localitate,Localitate,Județ,Profesor îndrumător
-1,ȘIMANDI CS. DARIA,6,Bethlen Gábor Kollégium,Nagyenyed,Fehér,GALAMBFALVI ANGYALKA
-2,LOVÁSZ P. BOGLÁRKA,6,Bethlen Gábor Kollégium,Nagyenyed,Fehér,GALAMBFALVI ANGYALKA
-3,TAMAS A. LŐRINC,6,Csiky Gergely Főgimnázium,Arad,Arad,LEHOCZKY ATTILA
-4,TAPASZTÓ-GUJDÁR E. SOPHIE,6,Csiky Gergely Főgimnázium,Arad,Arad,LEHOCZKY ATTILA
-5,DOBOȘ A. MAYA-VIKTORIA,7,Csiky Gergely Főgimnázium,Arad,Arad,MUNTEAN RAUL-TIBERIU
-6,RUDOLF A. JANKA-NAÓMI,7,Csiky Gergely Főgimnázium,Arad,Arad,MUNTEAN RAUL-TIBERIU
-7,MOCSÁR L. DELINKE,6,Toldy Általános Iskola,Hegyközszentmiklós,Bihar,MOCSÁR IRÉN
-8,KASZONI S. RÉKA,6,Toldy Általános Iskola,Hegyközszentmiklós,Bihar,MOCSÁR IRÉN
-9,HAIDUCSI I. BEATRICE,7,1-es számú Általános Iskola,Paptamási,Bihar,TIPONUȚ MONIKA-ILONA
-10,NÉMETI A. ZSÓFIA-NOÉMI,7,1-es számú Általános Iskola,Paptamási,Bihar,TIPONUȚ MONIKA-ILONA
-11,PETROVICI O. BARBARA,6,1-es számú Általános Iskola,Érszőllős,Bihar,ERDEI HAJNALKA
-12,SZABÓ SZ. TIMEA,6,1-es számú Általános Iskola,Érszőllős,Bihar,ERDEI HAJNALKA
-13,CSORBA T. DENISZ-DANIEL,6,Grigore Silași Általános Iskola,Bethlen,Beszterce-Naszód,KOVÁCS SZABOLCS
-14,KOVÁCS ZS. GERGŐ,6,Grigore Silași Általános Iskola,Bethlen,Beszterce-Naszód,KOVÁCS SZABOLCS
-15,DEAK K. SARA-TIMEA,7,Andrei Mureșanu Főgimnázium,Beszterce,Beszterce-Naszód,KIRAI ILDIKÓ
-16,TÓKOS A. ADÉL,7,Andrei Mureșanu Főgimnázium,Beszterce,Beszterce-Naszód,KIRAI ILDIKÓ
-17,IONAS A. BLANKA,6,George Moroianu Elméleti Líceum,Négyfalu,Brassó,FEKETE MAGDA
-18,KISS A. ESZTER,6,George Moroianu Elméleti Líceum,Négyfalu,Brassó,FEKETE MAGDA
-19,FABICH K. KÁROLY,7,Áprily Lajos Főgimnázium,Brassó,Brassó,PIROSKA ÉVA
-20,LAKATOS L. TAMÁS,7,Áprily Lajos Főgimnázium,Brassó,Brassó,PIROSKA ÉVA
-21,PÁLFI J. BENCE,6,Tamás Gyula Általános Iskola,Méra,Kolozs,SEBESTYÉN EMESE ENIKŐ
-22,PÁLFI J. BOTOND,6,Tamás Gyula Általános Iskola,Méra,Kolozs,SEBESTYÉN EMESE ENIKŐ
-23,SZÁSZ-IAKAB L. ÁGOSTON,7,Báthory István Elméleti Líceum,Kolozsvár,Kolozs,WOLF ÁGNES-KINGA
-24,VIRÁG J. NIMRÓD,7,Báthory István Elméleti Líceum,Kolozsvár,Kolozs,WOLF ÁGNES-KINGA
-25,VINCZE E. ÁGNES-ESZTER,6,Kemény Zsigmond Elméleti Líceum,Szamosújvár,Kolozs,LUKÁCS-ERDEI IBOLYA
-26,BORȘOȘ I. ANTÓNIA-DEBÓRA,6,Kemény Zsigmond Elméleti Líceum,Szamosújvár,Kolozs,LUKÁCS-ERDEI IBOLYA
-27,DEZSŐ F. SOPHIE,6,János Zsigmond Unitárius Kollégium,Kolozsvár,Kolozs,KORODI ALPÁR
-28,BOROS I. ZITA,6,János Zsigmond Unitárius Kollégium,Kolozsvár,Kolozs,KORODI ALPÁR
-29,LENARD L. KRISZTIAN-ROBERT,6,Kemény Zsigmond Elméleti Líceum,Szamosújvár,Kolozs,LUKÁCS-ERDEI IBOLYA
-30,FELSZEGI I. IMRE,6,Kemény Zsigmond Elméleti Líceum,Szamosújvár,Kolozs,LUKÁCS-ERDEI IBOLYA
-31,FARKAS  I. ANNA-FLÓRA,6,Nagy Mózes Elméleti Líceum,Kézdivásárhely,Kovászna,SÓLYOM ZOLTÁN
-32,HARALY ZS. HENRIETTA,6,Nagy Mózes Elméleti Líceum,Kézdivásárhely,Kovászna,SÓLYOM ZOLTÁN
-33,PÉNZES L. ÁBEL,7,Székely Mikó Kollégium,Sepsiszentgyörgy,Kovászna,PÉNZES LÓRÁND-ISTVÁN
-34,VAS ZS. PETRA,7,Székely Mikó Kollégium,Sepsiszentgyörgy,Kovászna,PÉNZES LÓRÁND-ISTVÁN
-35,LÉNÁRT E. NIKOLETT,6,Kelemen Didák Általános Iskola,Kézdialmás,Kovászna,FEKETE TÜNDE
-36,PÁLL J. HUNOR,6,Kelemen Didák Általános Iskola,Kézdialmás,Kovászna,FEKETE TÜNDE
-37,GASPAR-BARRA I. MÁRTON,6,Téglás Gábor Elméleti Líceum,Déva,Hunyad,GASPAR-BARRA RÉKA
-38,SZÉLL L. MÁRK-LEVENTE,6,Téglás Gábor Elméleti Líceum,Déva,Hunyad,GASPAR-BARRA RÉKA
-39,CSÁKI C. KÁROLY,6,Petőfi Sándor Iskolaközpont,Csíkdánfalva,Hargita,ELEKES IZABELLA
-40,JUHÁSZ L. ANDOR,6,Petőfi Sándor Iskolaközpont,Csíkdánfalva,Hargita,ELEKES IZABELLA
-41,MADARÁSZ Á. RITA,7,Sövér Elek Szakközépiskola,Gyergyóalfalu,Hargita,FAZAKAS GHIZELA
-42,INCZE L. NELLI,7,Sövér Elek Szakközépiskola,Gyergyóalfalu,Hargita,FAZAKAS GHIZELA
-43,KOLUMBÁN E. ESZTER,6,Arany János Általános Iskola,Csíkszentimre,Hargita,ANDRÁS ÉVA
-44,PÁL I. GYOPÁRKA,6,Arany János Általános Iskola,Csíkszentimre,Hargita,ANDRÁS ÉVA
-45,BÉNYI-PETI M. BERNADETT,6,Dr. Bernády György Általános Iskola,Marosvásárhely,Maros,BARÁT ANDREA
-46,SZIKSZAI R. EMMA-REGINA,6,Dr. Bernády György Általános Iskola,Marosvásárhely,Maros,BARÁT ANDREA
-47,TUROS J. RÉKA,7,Tudor Vladimirescu  Általános Iskola,Marosvásárhely,Maros,KÁNTOR ISTVÁN
-48,SZŰCS CS. VIRÁG-RÉKA,7,Tudor Vladimirescu  Általános Iskola,Marosvásárhely,Maros,KÁNTOR ISTVÁN
-49,SZEKELY-KIRALY I. KATALIN,6,Traian  Általános Iskola,Dicsőszentmárton,Maros,GAGYI ZOLTÁN-LORÁND
-50,MIHÁLY F. KLÁRA,6,Traian  Általános Iskola,Dicsőszentmárton,Maros,GAGYI ZOLTÁN-LORÁND
-51,AIRIZER L. ELVIRA,6,Bolyai Farkas Elméleti Líceum,Marosvásárhely,Maros,KOLOZSVÁRI SZILÁRD-ATTILA
-52,KAPÁS E. BENDEGÚZ-BARNABÁS,6,Bolyai Farkas Elméleti Líceum,Marosvásárhely,Maros,KOLOZSVÁRI SZILÁRD-ATTILA
-53,KÁSA A. ROLAND-OLIVÉR,6,Gyulaffy László  Általános Iskola,Szilágycseh,Szilágy,NAGY ATTILA
-54,SZABÓ J. BENCE-JENŐ,6,Gyulaffy László  Általános Iskola,Szilágycseh,Szilágy,NAGY ATTILA
-55,ILYÉS A. EVELIN-ZITA,7,Gyulaffy László  Általános Iskola,Szilágycseh,Szilágy,NAGY ATTILA
-56,SZIPOLY E. ODETT-ANDREA,7,Gyulaffy László  Általános Iskola,Szilágycseh,Szilágy,NAGY ATTILA
-57,SZABÓ Á. ANDREA-ANETT,6,Cserey-Goga Technológiai Líceum,Kraszna,Szilágy,KISS ZOLTÁN
-58,BOGYA M. PATRICIA-NOÉMI,6,Cserey-Goga Technológiai Líceum,Kraszna,Szilágy,KISS ZOLTÁN
-59,BALABAS Ș. ROBERT-ȘTEFAN,7,Simion Bărnuțiu  Általános Iskola,Zilah,Szilágy,DÉNES ANNAMÁRIA
-60,DEMJEN CS. NOÉMI-SZILVIA,7,Simion Bărnuțiu  Általános Iskola,Zilah,Szilágy,DÉNES ANNAMÁRIA
-61,BARA H. ÁKOS-HUNOR,7,Mihai Eminescu Általános Iskola,Zilah,Szilágy,LÓGA ZSOLT
-620,KHALED A. NÓRA ,7,Mihai Eminescu Általános Iskola,Zilah,Szilágy,LÓGA ZSOLT
-631,DIMÉNY B. ÁDÁM-BARNA,6,Cserey-Goga Technológiai Líceum,Kraszna,Szilágy,KISS ZOLTÁN
-642,VÉKÁS A. ZSELYKE,6,Cserey-Goga Technológiai Líceum,Kraszna,Szilágy,KISS ZOLTÁN
-65,MÉSZÁROS SZ. DÁVID,6,Kölcsey Ferenc Főgimnázium,Szatmárnémeti,Szatmár,CSORJÁN ÁRPÁD-JÓZSEF
-66,VIRAG A. DÁNIEL,6,Kölcsey Ferenc Főgimnázium,Szatmárnémeti,Szatmár,CSORJÁN ÁRPÁD-JÓZSEF
-67,HAGA A. JÁZMIN,7,Aurel Popp Művészeti Líceum,Szatmárnémeti,Szatmár,SÜTŐ KÁLMÁN-ZSOLT
-68,FODOR I. FIONA REBEKA,7,Aurel Popp Művészeti Líceum,Szatmárnémeti,Szatmár,SÜTŐ KÁLMÁN-ZSOLT
-69,CSIPŐ Z. ANNA,6,Kölcsey Ferenc Főgimnázium,Szatmárnémeti,Szatmár,CSORJÁN ÁRPÁD-JÓZSEF
-70,HOLLÓ A. RÉKA-ZITA,6,Kölcsey Ferenc Főgimnázium,Szatmárnémeti,Szatmár,CSORJÁN ÁRPÁD-JÓZSEF
-71,RISKO A. ERNA,6,Bartók Béla Elméleti Líceum,Temesvár,Temes, FODOR ENIKŐ
-72,CSÓKA Z. EMESE,6,Bartók Béla Elméleti Líceum,Temesvár,Temes, FODOR ENIKŐ
-73,FARKAS I. IMRE,7,Bartók Béla Elméleti Líceum,Temesvár,Temes, FODOR ENIKŐ
-74,RATKAI E. ÁLMOS-MÁRK,7,Bartók Béla Elméleti Líceum,Temesvár,Temes, FODOR ENIKŐ
+﻿,"NUMELE, INIȚIALA TATĂLUI ȘI PRENUMELE ELEVULUI",ANUL DE STUDII,UNITATEA DE ÎNVĂȚĂMÂNT / LOCALITATEA,LOCALITATEA,JUDEȚUL,PROFESOR PREGĂTITOR
+1,BÖLÖNI L. ORSOLYA,5,"Liceul Teologic Unitarian „Berde Mózes"" Cristuru Secuiesc",Cristuru Secuiesc,Harghita,FARKAS ORSOLYA
+2,MÓZES F.B. EDINA,5,Școala Gimnazială „Adorjáni Károly” Glodeni,Glodeni,Mureș,FAZAKAS IMOLA ERZSÉBET
+3,KEREKES TIHAMÉR,5,"Liceul De Arte „Plugor Sándor""/ Sfântu Gheorghe",Sfântu Gheorghe,Covasna,KÁTAI ZSUZSÁNNA
+4,DEMETER S. TAMÁS,5,"Liceul Teoretic „Arany János"" Salonta",Salonta,Bihor,FÁBIÁN ZSUZSÁNNA
+5,KERESZTÚRI S. ZSÓFIA,5,"Colegiul Național „Kölcsey Ferenc"" Satu Mare",Satu Mare,Satu Mare,KOVÁCS ERIKA
+6,FAZAKAS CÁ NOÉMI,5,Liceul Teologic Reformat Cluj-Napoca,Cluj-Napoca,Cluj,APÁCZAI CSILLA
+7,SZŰCS- LUKÁCS A. LIVIA,5,Școala Profesională„Petri Mor” Nușfalău,Nușfalău,Sălaj,ARDAI MÁRIA
+8,BÁNYAI F. ERIK,5,Liceul Teoretic „Németh László” Baia Mare,Baia Mare,Maramureș,TASNÁDI ELLA
+9,SZILÁGYI R. ÁDAM,5,Colegiul Național ”Bethlen Gábor” /Aiud,Aiud,Alba,LÁZÁR EMŐKE
+10,"KULCSÁR, G. SOMA DOMINIK",5,Liceul Teoretic „Bartók Béla” Timișoara,Timișoara,Timiș,FAZAKAS ENIKŐ
+11,OLA I. ZSOFIA,5,Școala Gimnazială „Grigore Silași” Beclean,Beclean,Bistrița- Năsăud,DENES ILONA
+12,MOCSÁR L. LÁSZLÓ,5,Școala Gimnazială „Toldy” Sînnicolau De Munte,Sînnicolau De Munte,Bihor,BÉRES ANGÉLA
+13,BÉCZI R.Z.BARBARA,5,"Liceul Reformat „Wesselenyi""Zalău",Zalău,Sălaj,BARA ERZSÉBET
+14,KOLOZSVÁRY NAGY V.M. VIKTÓRIA REGINA,5,"Colegiul Reformat „Baczkamadarasi Kis Gergely"" Odordeiu Secuiesc",Odordeiu Secuiesc,Harghita,KARÁCSONY MÁRIA-HAJNALKA
+15,MÁTHÉ B-F TÍMEA-MÁRIA,5,Liceul Teoretic „Horváth János”. Marghita,Marghita,Bihor,BORDÁS MÁRIA
+16,FARKAS GY. GYÖRGY,6,"Colegiul Reformat „Baczkamadarasi Kis Gergely"" Odorheiu Secuiesc",Odordeiu Secuiesc,Harghita,KARÁCSONY MÁRIA-HAJNALKA
+17,LÁSZLÓ I. DÁNIEL,6,Școala Gimnazială „Dr. Bernády György” Târgu Mureș,Târgu Mureș,Mureș,SIMON IMOLA ZSUZSÁNNA
+18,DOBRI LILLA,6,"Școala Gimnazială „Molnár Józsiás""/ Târgu Secuiesc",Târgu Secuiesc,Covasna,DOBRI EDIT
+19,GÁSPÁR GY. DORKA,6,Liceul Teoretic „Horváth János” Marghita,Marghita,Bihor,BORDÁS MÁRIA
+20,SOMOGYI B. PETRA,6,Școala Gimnazială Pir,Pir,Satu Mare,SZABÓ ILDIKÓ
+21,ROSTÁS S MAGOR,6,"Școala Gimnazială „Octavian Goga"" Cluj-Napoca",Cluj-Napoca,Cluj,NAGY KATALIN
+22,BÓNÉ S. VIOLA,6,Școala Gimnazială „Szikszai Lajos” Șamsud,Samsud,Sălaj,FAZAKAS TÜNDE
+23,VASS V.F. MÁRTA STEFÁNIA,6,"Colegiul Național „Áprily Lajos"" Brașov",Brașov,Brașov,ANTAL TÜNDE
+24,SZILÁGYI A. LOREDANA ANITA,6,Școala Gimnazială Lopadea Nouă,Lopadea Nouă,Alba,LŐRINCZ ILDIKÓ
+25,"DEMETER, S. ZSÓFIA",6,Liceul Teoretic „Bartók Béla” Timișoara,Timișoara,Timiș,FAZAKAS ENIKŐ
+26,DOBRE D. BRIGITTA ANDREA,6,Școala Gimnazială „Grigore Silași” Beclean,Beclean,Bistrița-Năsăud,DENES ILONA
+27,NAGY TS ERZSÉBET,6,Liceul Teologic Reformat Cluj-Napoca,Cluj-Napoca,Cluj,SZŐCS MAGDOLNA
+28,ANTAL CS. GABRIELLA GÉNIA,6,"Școala Gimnazială „Bethlen Gábor"" Odorheiu Secuiesc",Odordeiu Secuiesc,Harghita,BENCZE ILONA
+29,BALÁZS Á.CS. DÓRA REBEKA,6,Școala Gimnazială „Romulus Guga” Târgu Mureș,Târgu Mureș,Mureș,MAGYARI IBOLYA CSILLA
+30,KÉSZ S. BORÓKA,7,"Colegiul Reformat „Baczkamadarasi Kis Gergely"" Odorheiu Secuiesc",Odordeiu Secuiesc,Harghita,KARÁCSONY MÁRIA-HAJNALKA
+31,MÁTÉ  M. TILDA,7,Școala Gimnazială „Sámuel József” Chendu,Chendu,Mureș,DOMOKOS HONORIA
+32,NAGY LOLA GRÉTA,7,Liceul Teologic Reformat / Sfântu Gheorghe,Sfântu Gheorghe,Covasna,EGYED JÚLIA
+33,GACSÁDI T. GABRIELLA,7,Școala Gimnazială..„Dr.Balasi Jozsef ” Curtuișeni,Curtuișeni,Bihor,KECSKÉS CSILLA
+34,ELEK K. BARNA,7,Liceul Reformat Satu Mare,Satu Mare,Satu Mare,HIGYED GYÖNGYI
+35,TŐKÉS F ABIGÉL BOGLÁRKA,7,Liceul Teologic Reformat Cluj-Napoca,Cluj-Napoca,Cluj,SZŐCS MAGDOLNA
+36,PÜNKÖSTI A.M. VIOLA,7,"Liceul Reformat „Wesselényi"" Zalău",Zalău,Sălaj,BARA ERZSÉBET
+37,IONAS A-ZS. BLANKA,7,"Liceul Teoretic „George Moroianu"" Săcele",Săcele,Brașov,ALIZ GABRIELLA
+38,JENEI Z. MAYA,7,Școala Gimnazială „Nicolae Iorga” Baia Mare,Baia Mare,Maramureș,TASNÁDI ELLA
+39,BAKK A. BEATRIX IMOLA,7,Colegiul Național „Bethlen Gábor” /Aiud,Aiud,Alba,LÁZÁR EMŐKE
+40,"BAJKAI-FÁBIÁN, R. JÓZSEF ANTAL",7,Liceul Teoretic „Bartók Béla” Timișoara,Timișoara,Timiș,FAZAKAS ENIKŐ
+41,BARTHA C. ELIZA,7,Colegiul Național „Andrei Mureșanu”Bistrița,Bistrița,Bistrița- Năsăud,LEVAI ILEANA
+42,GERENDI SZ.R. SZÓFIA REBEKA,7,Liceul Vocațional Reformat Din Târgu Mureș,Târgu Mureș,Mureș,ZALÁNYI ERZSÉBET
+43,BENDE B. TABITA,7,Școala Gimnazială „Adorjáni Károly” Glodeni,Glodeni,Mureș,FAZAKAS IMOLA ERZSÉBET
+44,LAKATOS S. RÉKA,8,"Liceul Teologic Unitarian „Berde Mózes"" Cristuru Secuiesc",Cristuru Secuiesc,Harghita,FARKAS ORSOLYA
+45,PANITI G.L. EDINA TILDA,8,Școala Gimnazială Cornești-Crăciunești,Crăciunești,Mureș,BARTHA ÉVA
+46,SIMON BÉLA-MÁRK,8,Liceul Teoretic „Mikes Kelemen” / Sfântu Gheorghe,Sfântu-Gheorghe,Covasna,BANDI ZITA
+47,HAJDUCSI I. BEATRICE,8,Școala Gimnazială Nr.1 Tămășeu,Tămășeu,Bihor,GHITEA-SZABÓ JÚLIA
+48,VAIDA Á. SZILÁRD,8,"Școala Gimnazială „Bem József""Cărășeu",Cărășeu,Satu Mare,JÓZSA JÁZMINKA
+49,TŐKÉS L. NÓRA-TÍMEA,8,"Școala Gimnazială Viișoara, Com. Viișoara",Viișoara,Cluj,DEMETER ILONA
+50,SZILÁGYI I BENJÁMIN,8,Școala Gimnazială Nr. 1 Borla,Borla,Sălaj,FAZAKAS TÜNDE
+51,MÁTÉ CS. BARBARA VERONIKA,8,Școala Gimnazială „Nicolae Iorga” Baia Mare,Baia Mare,Maramureș,TASNÁDI ELLA
+52,KEREKES F. DÁVID,8,Colegiul Național ”Bethlen Gábor” /Aiud,Aiud,Alba,LÁZÁR EMŐKE
+53,BAGOSI S. ZSÓFIA,8,Școala Gimnazială „Miskolczy Károly” Mișca,Mișca,Bihor,OLÁH MÁRIA
+54,ELEK K. ANNA,8,Liceul Reformat Satu Mare,Satu Mare,Satu Mare,HIGYED GYÖNGYI
+55,FODOR ORSOLYA MÓNIKA,8,Liceul Vocațional Reformat Din Târgu Mureș,Târgu Mureș,Mureș,
+56,KOVÁCS I. NOÉMI,8,"Liceul Teologic Unitarian „Berde Mózes"" Cristuru Secuiesc",Cristuru Secuiesc,Harghita,FARKAS ORSOLYA
+57,KELEMEN N. KINGA,8,"Liceul Teoretic "" Arany János"" Salonta",Salonta,Bihor,TORNAI MELINDA
+58,BIRÓ I. KRISTÓF,9,"Liceul Teoretic „Tamási Áron"" Odorheiu Secuiesc",Odordeiu Secuiesc,Harghita,BENCZE ILONA
+59,SZÉKELY A. BRIGITTA,9,Liceul Vocațional Reformat Din Târgu Mureș,Târgu Mureș,Mureș,ZALÁNYI ERZSÉBET
+60,MOLNÁR FANNI,9,"Liceul „Kőrösi Csoma Sándor"" Covasna",Covasna,Covasna,MOLNÁR ERZSÉBET
+61,TRIPÓ A.  HENRIETT,9,Liceul Teoretic „Horváth János. Marghita,Marghita,Bihor,BORDÁS MÁRIA
+62,KATONA CS. DÓRA,9,Liceul Teoretic Carei,,Satu Mare,LIKKER ERIKA
+63,ROSTÁS - PÉTER I FANNI,9,"Liceul Teoretic „Apaczai Csere János"" Cluj-Napoca",Cluj-Napoca,Cluj,BODOR R. PIROSKA
+64,SZABÓ  V JOHANNA - BARBARA,9,Colegiul Național „Silvania” Zalău,Zalău,Sălaj,TÓBIÁS ISTVÁN - TAMÁS
+65,KISS D. BOGLÁRKA,9,Colegiul Național „Bethlen Gábor” /Aiud,Aiud,Alba,LŐRINCZ ILDIKÓ
+66,INCZE Z. BARBARA KLÁRA,9,Colegiul Național „Andrei Mureșan Bistrița,Bistrița,Bistrița Năsăud,LEVAI ILEANA
+67,BÉRES I. SAROLT TAMARA,9,Liceul De Arte Oradea,Oradea,Bihor,SZILÁGYI JUDIT
+68,BECSEK-NAGY ATTILA,9,"Liceul „Kőrösi Csoma Sándor"" Covasna",Covasna,Covasna,MOLNÁR ERZSÉBET
+69,MEZEI A. MÁRK,9,"Liceul Teoretic „Arany János"" Salonta",Salonta,Bihor,PATÓCS CSILLA
+70,OLÁH C. DÁNIEL ADÓNIA,9,"Colegiul Național „Kölcsey Ferenc"" Satu Mare",Satu Mare,Satu Mare,KOVÁCS ERIKA
+71,ERDEI A DOMINIK - ATTILA,9,Colegiul Național „Simion Bărnuțiu” Șimleu Silvaniei,Șimleul Silvaniei,Sălaj,TÓBIÁS ISTVÁN - TAMÁS
+72,SIKÓ M. DÁNIEL,9,Liceul Teoretic „Bolyai Farkas'' Târgu Mureș,Târgu Mureș,Mureș,KOVÁCS JUDIT
+73,DEZSŐ Á. ADRIENN-MELINDA,9,Colegiul „Petru Maior” Reghin,Reghin,Mureș,KISS ANDOR
+74,DEMETER F. BRIGITTA-DIANA,9,Colegiul Național Pedagogic „Mihai Eminescu” Târgu Mureș,Tărgu Mureș,Mureș,BORBÁTH ANNAMÁRIA
+75,KENYERES Z. MÁTYÁS,10,"Colegiul National „Márton Áron"" - Miercurea Ciuc",Miercurea Ciuc,Harghita,SOLYMOSI ALPÁR
+76,CSIKI Z. JOHANNA,10,Liceul Vocațional Reformat Din Târgu Mureș,Târgu Mureș,Mureș,ZALÁNYI ERZSÉBET
+77,MOLNÁR KLAUDIA,10,Liceul Teoretic „Mikes Kelemen” / Sfântu Gheorghe,Sfântu/Gheorghe,Covasna,BANDI ZITA
+78,SZŰCS L.  MELISZA-ERIKA,10,"Liceul Teoretic „Arany János"" Salonta",Salonta,Bihor,TORNAI MELINDA
+79,VERES S. KINCSŐ HANNA,10,"Liceul Romano-Catolic „Josephus Calasantius"" Carei",Carei,Satu Mare,LIKKER ERIKA
+80,VARRÓ Á. HENRIETTA,10,"Liceul Teoretic „Báthory Istvan"" Cluj-Napoca",Cluj-Napoca,Cluj,GYURKA IZABELLA-KATALIN
+81,DOBAI Z HANNA - ÁGOTA,10,Colegiul Național „Silvania” Zalău,Zalău,Sălaj,TÓBIÁS ISTVÁN - TAMÁS
+82,VERESS  L. ÁGOTA,10,Colegiul Național „Bethlen Gábor” /Aiud,Aiud,Alba,LÁZÁR EMŐKE
+83,SUCIU C.N. KRISZTINA ANDEEA,10,Colegiul Național „Andrei Mureșanu”Bistrița,Bistița,Bistrița- Năsăud,LEVAI ILEANA
+84,VARRÓ A. JÚLIA-IMOLA,10,Colegiul Național „Octavian Goga” Sibiu,Sibiu,Sibiu,VARRÓ ALEXANDRU
+85,SALLAI T.J. BOGLÁRKA - HANNA,10,Colegiul Național „Silvania” Zalău,Zalău,Sălaj,TÓBIÁS ISTVÁN - TAMÁS
+86,KOÓS P. MÁRIA,10,Liceul Teoretic „Bolyai Farkas'' Târgu Mureș,Târgu Mureș,Mureș,KOVÁCS JUDIT
+87,MÁTIS I.T. MÁRTA LÍDIA,10,Colegiul Național „Silvania” Zalău,Zalău,Sălaj,TÓBIÁS ISTVÁN - TAMÁS
+88,PAP NOÉMI-EMESE,10,Liceul Teoretic „Bolyai Farkas'' Târgu Mureș,Târgu Mureș,Mureș,
+89,BARTALIS ZS. TAMARA,11,"Liceul De Arte „Dr. Palló Imre"" Odorheiu Secuiesc",Odordeiu Secuiesc,Harghita,BÁLINT ZSÓFIA
+90,NAGY L. AMANDA,11,Liceul Teoretic „Bolyai Farkas'' Târgu Mureș,Târgu Mureș,Mureș,KOVÁCS JUDIT
+91,NÁDUDVARY GYOPÁR,11,"Colegiul Naţional „Székely Mikó"" / Sfântu Gheorghe",Sfântu Gheorghe,Covasna,DR. KINDA ELEONORA
+92,POZSÁR I. CYNTHIA MÉDEA,11,Liceul De Arte Oradea,Oradea,Bihor,SZILÁGYI JUDIT
+93,MARÓTHY Z. DÁVID ZOLTÁN,11,"Colegiul Național „Kölcsey Ferenc"" Satu Mare",Satu Mare,Satu Mare,KOVÁCS ERIKA
+94,KIS A. SZABOLCS -ROLAND,11,"Liceul Teoretic „Apáczai Csere János"" Cluj-Napoca",Cluj-Napoca,Cluj,BODOR R. PIROSKA
+95,TÓTH Z PATRIK - KRISZTIÁN,11,Colegiul Național „Silvania” Zalău,Zalău,Sălaj,TÓBIÁS ISTVÁN - TAMÁS
+96,KEREKES GH.-L. ZSÓFIA,11,Colegiul Național „Bethlen Gábor” /Aiud,Aiud,Alba,LÁZÁR EMŐKE
+97,"BÓDIS, F. ABIGÉL",11,Liceul Teoretic „Bartók Béla” Timișoara,Timișoara,Timiș,FAZAKAS ENIKŐ
+98,OLAH F. ARIANNA,11,Colegiul Național „Andrei Mureșanu”Bistrița,Bistrița,Bistrtța-Năsăud,LEVAI ILEANA
+99,NAGY J. ADRIEN-TÜNDE,11,"Lit. „Ady Endre"" Oradea",Oradea,Bihor,CSEKE SÁNDOR
+100,GÁL I.L. LEVENTE,11,Colegiul Național „Silvania” Zalău,Zalău,Sălaj,TÓBIÁS ISTVÁN - TAMÁS
+101,KULCSÁR P. PÁL,11,Liceul Reformat „Lorántffy Zsuzsanna” Oradea,Oradea,Bihor,BERE ZSUZSÁNA-ERZSÉBET
+102,FÜZESI I.I. BEATRIX,11,"Liceul „Ady Endre"" Oradea",Oradea,Bihor,CSEKE SÁNDOR
+103,NAGY J. BETTINA-BEATRIX,11,Liceul Teoretic „Bolyai Farkas'' Târgu Mureș,Târgu Mureș,Mureș,MAJTÉNYI - VASS VIRÁG
+104,LUKÁCS C. HUNOR,11,Liceul Vocațional Reformat Din Târgu Mureș,Târgu Mureș,Mureș,ZALÁNYI ERZSÉBET
+105,BIRTALAN SZ. BENCE,12,"Colegiul Reformat „Baczkamadarasi Kis Gergely"" Odorheiu Secuiesc",Odordeiu Secuiesc,Harghita,SZÁSZ LÓRÁNT
+106,MICLEA A. ANDREA-SZIDÓNIA,12,Liceul Teoretic „Bolyai Farkas'' Târgu Mureș,Târgu Mureș,Mureș,KOVÁCS JUDIT
+107,CSUTKA ESZTER,12,Liceul Teologic Reformat / Sfântu Gheorghe,Sfântu Gheorghe,Covasna,EGYED JÚLIA
+108,TEGZE T. JÁZMINKA,12,"Colegiul Național „Kölcsey Ferenc"" Satu Mare",Satu Mare,Satu Mare,KOVÁCS ERIKA
+109,GÁL A. PÉTER,12,"Liceul Teoretic „Báthory Istvan"" Cluj-Napoca",Cluj-Napoca,Cluj,GYURKA IZABELLA-KATALIN
+110,SZABÓ S. KINGA,12,Colegiul Național „Bethlen Gábor” /Aiud,Aiud,Alba,LÁZÁR EMŐKE
+111,"GÁLL, Z. DÁVID",12,Liceul Teoretic „Bartók Béla” Timișoara,Timișoara,Timiș,FAZAKAS ENIKŐ
+112,MÁRTONFI AÁ RAKHEL-DENISSZA,12,"Liceul Teoretic „Báthory Istvan"" Cluj-Napoca",Cluj-Napoca,Cluj,BIRÓ ENIKŐ-MARIA
+113,BÍRÓ Á. DÓRA,9T,"Colegiul Reformat „Baczkamadarasi Kis Gergely"" Odorheiu Secuiesc",Odordeiu Secuiesc,Harghita,JUHÁSZ ZOLTÁN
+114,SÜKÖSD Á. REBEKA,9T,Liceul Vocațional Reformat Din Târgu Mureș,Târgu Mureș,Mureș,ENYEDI CSABA MÁRTON
+115,CRĂCIUN A.  BARBARA,9T,Liceul Reformat „Lorántffy Zsuzsanna” Oradea,Oradea,Bihor,PAP ANIKÓ
+116,SZELCUZAN I SÁRA,9T,"Liceul Unitarian „János Zsigmond"" Cluj-Napoca",Cluj-Napoca,Cluj,
+117,KERESZTESI A. BENJAMIN,9T,"Liceul Reformat „Wesselényi"" Zalău",Zalău,Sălaj,KULCSÁR EDIT-ÉVA
+118,GYÖRKI L.  HENRIETTA,9T,Liceul Reformat „Lorántffy Zsuzsanna” Oradea,Oradea,Bihor,PAP ANIKÓ
+119,BORBÉLY GY. MELINDA-VIRÁG,9T,Liceul Reformat „Lorántffy Zsuzsanna” Oradea,Oradea,Bihor,PAP ANIKÓ
+120,ONI A. ADORJÁN,10T,"Liceul Teologic Unitarian „Berde Mózes"" Cristuru Secuiesc",Cristuru Secuiesc,Harghita,DR. LAKATOS SÁNDOR
+121,NAGY CS. CSABA LÁSZLÓ,10T,Liceul Vocațional Reformat Din Târgu Mureș,Târgu Mureș,Mureș,ENYEDI CSABA MÁRTON
+122,MÁTE M. BARBARA,10T,Liceul Reformat „Lorántffy Zsuzsanna” Oradea,Oradea,Bihor,BERE ZSUZSÁNA-ERZSÉBET
+123,AMBRUS ZS. KRISZTINA,10T,Liceul Reformat Satu Mare,Satu Mare,Satu Mare,SZÉKELY TÜNDE
+124,GOMBÁR A ADÉL,10T,Liceul Teologic Reformat Cluj-Napoca,Cluj-Napoca,Cluj,PÉTER CSABA
+125,TOLNAI G. ÁBEL,10T,"Liceul Reformat „Wesselényi"" Zalău",Zalău,Sălaj,KULCSÁR EDIT-ÉVA
+126,BOGDÁN SZ-J. BENEDEK,10T,Liceul Reformat „Lorántffy Zsuzsanna” Oradea,Oradea,Bihor,BERE ZSUZSÁNA-ERZSÉBET
+127,PATAKI J. CSABA ROLAND,11T,Liceul Vocațional Reformat Din Târgu Mureș,Târgu Mureș,Mureș,ENYEDI CSABA MÁRTON
+128,ORBÁN SZILVIA,11T,Colegiul Reformat „Dr. Csiha Kálmán” / Târgu Secuiesc,Târgu Secuiesc,Covasna,BARTOS KÁROLY
+129,HORVÁTH A. MILÁN,11T,Liceul Reformat „Lorántffy Zsuzsanna” Oradea,Oradea,Bihor,BERE ZSUZSÁNA-ERZSÉBET
+130,KALLOS A. KAROLA ,11T,Liceul Reformat Satu Mare,Satu Mare,Satu Mare,SZÉKELY TÜNDE
+131,KISS C ANITA-IRMA,11T,Liceul Teologic Reformat Cluj-Napoca,Cluj-Napoca,Cluj,PÉTER CSABA
+132,BOBOTAN T. JULIA ANGELA,11T,"Liceul Reformat „Wesselényi"" Zalău",Zalău,Sălaj,BARA ERZSÉBET
+133,NAGY F. FERENC-ZOLTÁN,11T,Liceul Reformat „Lorántffy Zsuzsanna” Oradea,Oradea,Bihor,BERE ZSUZSÁNA-ERZSÉBET
+134,KISS A. PATRIK ATTILA,11T,Liceul Vocațional Reformat Din Târgu Mureș,Târgu Mureș,Mureș,ENYEDI CSABA MÁRTON
+135,KISS A. ANDREA ZSUZSA,12T,Liceul Vocațional Reformat Din Târgu Mureș,Târgu Mureș,Mureș,ENYEDI CSABA MÁRTON
+136,BATA L. DÁVID-LAJOS,12T,Liceul Reformat „Lorántffy Zsuzsanna” Oradea,Oradea,Bihor,PAP ANIKÓ
+137,SŰTŐ-MINYUKUS IF TIMEA,12T,Liceul Teologic Reformat Cluj-Napoca,Cluj-Napoca,Cluj,PÉTER CSABA
+138,SZÁSZ I. IVÁN CSONGOR,12T,Liceul Vocațional Reformat Din Târgu Mureș,Târgu Mureș,Mureș,ENYEDI CSABA MÁRTON
+139,GÓLYA L. BOTOND LEVENTE,12T,Liceul Vocațional Reformat Din Târgu Mureș,Târgu Mureș,Mureș,ENYEDI CSABA MÁRTON
+140,GOMBKÖTŐ F MÓNIKA-ROZALIA,12T,Liceul Teologic Reformat Cluj-Napoca,Cluj-Napoca,Cluj,PÉTER CSABA

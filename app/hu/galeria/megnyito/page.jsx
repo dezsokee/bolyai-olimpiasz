@@ -7,7 +7,9 @@ const pictures = [...Array(55)].map((_, index) => {
 export default function Page() {
   return (
     <main>
+
       <Mosaic images={pictures} />
+      
     </main>
   );
 }
