@@ -11,7 +11,7 @@ const Page = () => {
       </h1>
       
       <h2 className="mb-16 text-center text-xl">
-        Marosvásárhely, 2023 április 20-23
+        Marosvásárhely, 2024 április 24-26
       </h2>
     
       <h3 className="mb-2 mt-5 text-lg">2024. április 24. szerda</h3>
