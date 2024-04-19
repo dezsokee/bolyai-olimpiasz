@@ -4,7 +4,7 @@ import TextFileReader from "@/components/TextFileReader";
 const Page = () => {
   return (
     <main>
-      <TextFileReader fileName="bizottsagok/romanul_megyei.txt" />
+      <TextFileReader fileName="bizottsagok/romanul_megyei_2024.txt" />
     </main>
   );
 };

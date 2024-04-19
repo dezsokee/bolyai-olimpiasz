@@ -14,11 +14,6 @@ const items = {
     Terembeosztás: "Repartizarea pe săli de concurs",
     Szállás: "Cazare",
   },
-  Galéria: {
-    "Díjátadó ünnepség": "Festivitate de premiere",
-    "Ünnepélyes megnyitó": "Festivitate de deschidere",
-    Marosvásárhely: "Târgu Mureș",
-  },
   Kultúra: {
     "Maros megyéről": "Despre jud. Mureș",
     Marosvásárhelyről: "Despre Târgu Mureș",
@@ -62,7 +57,6 @@ const links = {
 const translation = {
   Bizottságok: "Comisii",
   Információk: "Informații",
-  Galéria: "Galerie",
   Kultúra: "Cultură",
 };
 
