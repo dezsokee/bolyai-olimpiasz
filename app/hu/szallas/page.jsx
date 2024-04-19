@@ -15,7 +15,7 @@ const Page = () => {
 
         <h1 className="text-2xl font-semibold">Hotel Grand Târgu Mureș</h1>
         <div>
-          <label className="text-sm uppercase text-slate-800">Adresa</label>
+          <label className="text-sm uppercase text-slate-800">Cím</label>
           <br />
           <span className="text-lg">
             Piața Victoriei, nr. 28-30, Târgu Mureș, România

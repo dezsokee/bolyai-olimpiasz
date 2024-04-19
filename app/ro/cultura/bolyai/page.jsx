@@ -4,7 +4,7 @@ import TextFileReader from "@/components/TextFileReader";
 const Page = () => {
   return (
     <main>
-      <TextFileReader fileName="texts/tortenelem_bolyai_ro.txt" />
+      <TextFileReader fileName="texts/tortenelem_refi_ro.txt" />
     </main>
   );
 };

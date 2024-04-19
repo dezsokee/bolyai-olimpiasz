@@ -11,14 +11,13 @@ const Page = () => {
       <h2 className="mb-16 text-center text-xl">
         Târgu-Mureș, 20-23 aprilie 2023
       </h2>
-      <h3 className="mb-2 mt-5 text-lg">20 aprilie 2023 - Joi</h3>
-      <Table fileName="/assets/program_ro/apr20.csv" />
-      <h3 className="mb-2 mt-5 text-lg">21 aprilie 2023 - Vineri</h3>
-      <Table fileName="/assets/program_ro/apr21.csv" />
-      <h3 className="mb-2 mt-5 text-lg">22 aprilie 2023 - Sâmbătă</h3>
-      <Table fileName="/assets/program_ro/apr22.csv" />
-      <h3 className="mb-2 mt-5 text-lg">23 aprilie 2023 - Duminică</h3>
-      <Table fileName="/assets/program_ro/apr23.csv" />
+      <h3 className="mb-2 mt-5 text-lg">24 aprilie 2024 - Miercuri</h3>
+      <Table fileName="/assets/program_ro/apr24.csv" />
+      <h3 className="mb-2 mt-5 text-lg">25 aprilie 2024 - Joi</h3>
+      <Table fileName="/assets/program_ro/apr25.csv" />
+      <h3 className="mb-2 mt-5 text-lg">26 aprilie 2024 - Vineri</h3>
+      <Table fileName="/assets/program_ro/apr26.csv" />
+      
     </main>
   );
 };
