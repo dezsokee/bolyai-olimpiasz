@@ -1,15 +1,18 @@
-﻿Nr. crt.,Județul,Profesor însoțitor,Unitatea de înv.,Localitatea
-1,Alba,Juhász Roland,Colegiul Național „Bethlen Gábor”,Aiud
-2,Arad,Muntean Raul-Tiberiu,Colegiul „Csiky Gergely”,Arad
-3,Bihor,Tiponuț Monika-Ilona,Școala Gimnazială „Toldy”,Sânnicolau de Munte
-4,Bistrița-Năsăud,Kovács Szabolcs,Școala Gimnazială „Grigore Silași”,Beclean
-5,Brașov,Piroska Éva,Colegiul Național „Áprily Lajos”,Brașov
-6,Cluj,Lukács-Erdei Ibolya,Liceul Teoretic „Kemény Zsigmond”,Gherla
-7,Covasna,Pénzes Lóránd-István,Colegiul Național „Székely Mikó”,Sfântu Gheorghe
-8,Hunedoara,Gaspar-Barra Réka,Liceul Teoretic „Téglás Gábor”,Deva
-9,Harghita,Elekes Izabella,Liceul Tehnologic ”Petőfi Sándor”,Dănești
-10,Mureș,Gagyi Zoltán-Loránd,Școala Gimnazială „Traian”,Târnăveni
-11,Sălaj,Nagy Attila,Școala Gimnazială „Gyulaffy László”,Cehu Silvaniei
-12,Sălaj,Kiss Zoltán,Liceul Technologic ”Cserey-Goga”,Crasna
-13,Satu Mare,Csorján Árpád-József,Colegiul Național „Kölcsey Ferenc”,Satu Mare
-14,Timiș,Fodor Enikő,Liceul Teoretic „Bartók Béla”,Timișoara
+﻿,Profesor însoțitor,Unitatea de înv.,Județul
+1,FODOR ETELKA-ÉVA,SZÉKELYKERESZTÚRI „ORBÁN BALÁZS” ELMÉLETI LÍCEUM,HARGHITA
+2,FARKAS ORSOLYA,"SZÉKELYKERESZTÚRI „BERDE MÓZES"" UNITÁRIUS GIMNÁZIUM",HARGHITA
+3,FAZAKAS IMOLA-ERZSÉBET,"ȘCOALA GIMNAZIALĂ ,,ADORJANI KÁROLY”, GLODENI",MUREȘ
+4,ENYEDI CSABA-MÁRTON,"LICEUL VOCAȚIONAL REFORMAT, TÂRGU MUREȘ",MUREȘ
+5,MOLNÁR ERZSÉBET,"LICEUL „KŐRÖSI CSOMA SÁNDOR"", COVASNA",COVASNA
+6,TRIPÓ MELINDA,"ȘCOALA GIMNAZIALĂ NR. 1, TĂUTEU",BIHOR
+7,FÁBIÁN ZSUZSANNA,"LICEUL TEORETIC „ARANY JÁNOS"", SALONTA",BIHOR
+8,HANKOVSZKY ÉVA,"ȘCOALA GIMNAZIALĂ „BĂLCESCU PETŐFI”, SATU MARE",SATU MARE
+9,SZÉKELY TÜNDE,LICEUL REFORMAT SATU MARE,SATU MARE
+10,PÉTER CSABA,"LICEUL TEOLOGIC REFORMAT, CLUJ-NAPOCA",CLUJ
+11,TÓBIÁS ISTVÁN-TAMÁS,"COLEGIUL NAȚIONAL „SILVANIA”, ZALĂU",SĂLAJ
+12,IMRE MÓNIKA,"ȘCOALA GIMNAZIALĂ „KÓS KÁROLY”, ARDUZEL",MARAMUREȘ
+13,DEMETER ISTVÁN SZABOLCS,"COLEGIUL NAȚIONAL „BETHLEN GÁBOR”, AIUD",ALBA
+14,DEMETER SÁNDOR,,TIMIȘ
+15,LÉVAI ILEANA,"COLEGIUL NAȚIONAL „ANDREI MUREȘANU”, BISTRIȚA",BISTRIȚA-NĂSĂUD
+16,KOSZTA ENIKŐ,"COLEGIUL NAȚIONAL „ÁPRILY LAJOS”, BRAȘOV",BRAȘOV
+17,VARRÓ ALEXANDRU,"COLEGIUL NAȚIONAL ,,OCTAVIAN GOGA”, SIBIU",SIBIU
