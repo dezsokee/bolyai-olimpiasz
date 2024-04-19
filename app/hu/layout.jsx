@@ -13,4 +13,5 @@ const HuLayout = ({ children }) => {
     </>
   );
 };
+
 export default HuLayout;

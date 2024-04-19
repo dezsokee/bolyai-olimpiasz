@@ -9,10 +9,10 @@ const Page = () => {
       <section className="gap-10 md:flex">
         <img
           alt=""
-          src="/assets/images/pascan.jpg"
+          src="/assets/images/daraban.jpg"
           className="mb-2 max-h-[600px] w-full object-cover shadow-2xl md:mb-0 md:w-[380px]"
         />
-        <TextFileReader fileName="texts/pascan_ro.txt" />
+        <TextFileReader fileName="texts/daraban_ro.txt" />
       </section>
       <section className="gap-10 md:flex">
         <img

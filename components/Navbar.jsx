@@ -50,7 +50,9 @@ const Navbar = () => {
             
         >
             {isOpen && <Modal close={setIsOpen}/>}
+
             <section className="flex items-center">
+
                 <Link href={`/${lang}/`}>
                     <img
                         alt=""
@@ -63,15 +65,21 @@ const Navbar = () => {
                         )}
                     />
                 </Link>
+
                 <div className="flex-grow"/>
-                {breakpoint != "sm" && breakpoint != "xs" && <NavItems/>}
+
+                {breakpoint != "sm" && breakpoint != "xs" && <NavItems openModal={setIsOpen}/>}
+
                 <div className="flex-grow"/>
+
                 <Link href={`/${inverse_lang}/`}>
-          <span
-              className="border-2 border-papyrus/50 p-3 text-lg uppercase text-raisin-black backdrop-blur-2xl transition-colors hover:bg-papyrus/50 md:text-sm">
-            {inverse_lang}
-          </span>
+                    {inverse_lang === "hu" ? (
+                        <img src="/assets/images/flag_hu.png" alt="HU" className="h-6 w-auto"/>
+                    ) : (
+                        <img src="/assets/images/flag_ro.png" alt="RO" className="h-6 w-auto"/>
+                    )}
                 </Link>
+
                 {(breakpoint == "sm" || breakpoint == "xs") && (
                     <button
                         onClick={() => {
@@ -81,6 +89,7 @@ const Navbar = () => {
                         <MenuIcon className="ml-2 h-14 w-14 transition-all hover:bg-papyrus"/>
                     </button>
                 )}
+
             </section>
         </nav>
     );

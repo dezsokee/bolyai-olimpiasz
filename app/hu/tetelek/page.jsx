@@ -1,9 +1,11 @@
 export default function Page() {
   return (
     <main>
+
       <h1 className="space-x-2 text-lg font-semibold md:text-2xl">
         A tételek egyelőre nem elérhetőek! 
-        {/*<span>Tétel VI. osztály</span>
+        {/*<span>Tétel VI. osztály</span>        
+        <span>Tétel VI. osztály</span>
         <a
           href="/assets/tetelek/6tetel.pdf"
           target="_blank"
@@ -11,8 +13,11 @@ export default function Page() {
         >
           6tetel.pdf
         </a>
+
       </h1>
+      
       <h1 className="space-x-2 text-lg font-semibold md:text-2xl">
+
         <span>Megoldókulcs VI. osztály</span>
         <a
           href="/assets/tetelek/6kulcs.pdf"
@@ -21,7 +26,9 @@ export default function Page() {
         >
           6kulcs.pdf
         </a>
+      
       </h1>
+      
       <h1 className="space-x-2 text-lg font-semibold md:text-2xl">
         <span>Tétel VII. osztály</span>
         <a
@@ -31,7 +38,9 @@ export default function Page() {
         >
           7tetel.pdf
         </a>
+
       </h1>
+      
       <h1 className="space-x-2 text-lg font-semibold md:text-2xl">
         <span>Megoldókulcs VII. osztály</span>
         <a
@@ -40,8 +49,9 @@ export default function Page() {
           className="font-normal underline"
         >
           7kulcs.pdf
-  </a>*/}
+     </a>*/}
       </h1>
+      
     </main>
   );
 }
