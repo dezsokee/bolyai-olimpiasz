@@ -6,8 +6,7 @@ const Page = () => {
     <main>
 
       <h1 className="text-center text-2xl font-semibold">
-        A Magyar Kisebbség Történelme és Hagyományai Országos Tantárgyverseny
-        programja
+      PROTESTÁNS FELEKEZETEK ORSZÁGOS TANTÁRGYVERSENYÉNEK PROGRAMJA
       </h1>
       
       <h2 className="mb-16 text-center text-xl">
