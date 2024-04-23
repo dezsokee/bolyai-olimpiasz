@@ -5,8 +5,7 @@ const Page = () => {
   return (
     <main>
       <h1 className="text-center text-2xl font-semibold">
-        Programul Olimpiadei Naționale de Istoria și Tradițiile Minorității
-        Maghiare
+        Programul OLIMPIADEI NAȚIONALĂ DE RELIGIE, CULTELE REFORMAT, EVANGHELIC ȘI UNITARIAN
       </h1>
       <h2 className="mb-16 text-center text-xl">
         Târgu-Mureș, 24-26 aprilie 2024
