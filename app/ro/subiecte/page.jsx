@@ -12,7 +12,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-           clasa V-a
+           clasa a V-a
         </a>
         <br></br>
         
@@ -21,7 +21,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-          clasa VI-a
+          clasa a VI-a
         </a>
         
 
@@ -31,7 +31,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-          clasa VII-a
+          clasa a VII-a
         </a>
 
         <br></br>
@@ -40,7 +40,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-          clasa VIII-a
+          clasa a VIII-a
         </a>
        
         <br></br>
@@ -49,7 +49,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-          clasa IX-a
+          clasa a IX-a
         </a>
         <br></br>
         <a
@@ -57,7 +57,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-           clasa IX-a teologic
+           clasa a IX-a teologic
         </a>
 
         <br></br>
@@ -66,7 +66,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-          clasa X-a
+          clasa a X-a
         </a>
         <br></br>
         <a
@@ -74,7 +74,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-          clasa X-a teologic
+          clasa a X-a teologic
         </a>
 
         <br></br>
@@ -83,7 +83,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-         clasa XI-a
+         clasa a XI-a
         </a>
         <br></br>
         <a
@@ -91,7 +91,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-         clasa XI-a teologic
+         clasa a XI-a teologic
         </a>
 
         <br></br>
@@ -100,7 +100,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-          clasa XII-a
+          clasa a XII-a
         </a>
         <br></br>
         <a
@@ -108,7 +108,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-          clasa XII-a teologic
+          clasa a XII-a teologic
         </a>
 
       </h1>
@@ -122,7 +122,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-          clasa V-a
+          clasa a V-a
         </a>
         <br></br>
         <a
@@ -130,7 +130,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-          clasa VI-a
+          clasa a VI-a
         </a>
 
         <br></br>
@@ -139,7 +139,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-          clasa VII-a
+          clasa a VII-a
         </a>
         <br></br>
         <a
@@ -147,7 +147,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-          clasa VIII-a
+          clasa a VIII-a
         </a>
 
         <br></br>
@@ -156,7 +156,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-          clasa IX-a
+          clasa a IX-a
         </a>
         <br></br>
         <a
@@ -164,7 +164,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-         clasa IX-a teologic
+         clasa a IX-a teologic
         </a>
 
         <br></br>
@@ -173,7 +173,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-          clasa X-a
+          clasa a X-a
         </a>
         <br></br>
         <a
@@ -181,7 +181,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-         clasa X-a teologic
+         clasa a X-a teologic
         </a>
 
         <br></br>
@@ -190,7 +190,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-         clasa XI-a
+         clasa a XI-a
         </a>
         <br></br>
         <a
@@ -198,7 +198,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-          clasa XI-a teologic
+          clasa a XI-a teologic
         </a>
 
         <br></br>
@@ -207,7 +207,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-          clasa XII-a
+          clasa a XII-a
         </a>
         <br></br>
         <a
@@ -215,7 +215,7 @@ export default function Page() {
           target="_blank"
           className="font-normal underline"
         >
-         clasa XII-a teologic
+         clasa a XII-a teologic
         </a>
 
 
